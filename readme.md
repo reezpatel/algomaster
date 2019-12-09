@@ -24,8 +24,14 @@ It contains (or will contain) some the most used algorithm in programming.
 
 ### Questions
 
-| Folder  | Name                 | Dificulty | Best Solution |
-| ------- | -------------------- | --------- | ------------- |
-| `TNS`   | Two Number Sum       | Easy      | ------------- |
-| `CVBST` | Closest Value in BST | Easy      | ------------- |
-| `DFS`   | Depth First Search   | Easy      | ------------- |
+| Folder  | Name                       | Dificulty | Best Solution |
+| ------- | -------------------------- | --------- | ------------- |
+| `TNS`   | Two Number Sum             | Easy      | ------------- |
+| `CVBST` | Closest Value in BST       | Easy      | ------------- |
+| `DFS`   | Depth First Search         | Easy      | ------------- |
+| `LL`    | Doubly Linked List         | Easy      | ------------- |
+| `BS`    | Binary Search              | Easy      | ------------- |
+| `FIB`   | Nth Fibonacci              | Easy      | ------------- |
+| `PS`    | Two Number Sum             | Easy      | ------------- |
+| `CCE`   | Caesar Cipher Encryptor    | Easy      | ------------- |
+| `TLN`   | Find Three Largest Numbers | Easy      | ------------- |

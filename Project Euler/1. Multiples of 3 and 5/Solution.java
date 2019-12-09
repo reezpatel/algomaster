@@ -28,5 +28,6 @@ public class Solution {
             long sum = (3 * sigma(a)) + (5 * sigma(b)) - (15 * sigma(c));
             System.out.println(sum + "");
         }
+        in.close();
     }
 }
