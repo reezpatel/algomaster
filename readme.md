@@ -35,3 +35,5 @@ It contains (or will contain) some the most used algorithm in programming.
 | `PS`    | Two Number Sum             | Easy      | ------------- |
 | `CCE`   | Caesar Cipher Encryptor    | Easy      | ------------- |
 | `TLN`   | Find Three Largest Numbers | Easy      | ------------- |
+| `ThNS`  | Three Numbers Sum          | Medium    | ------------- |
+| `SD`    | Smallest Difference        | Medium    | ------------- |
