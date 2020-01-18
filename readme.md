@@ -39,3 +39,10 @@ It contains (or will contain) some the most used algorithm in programming.
 | `SD`    | Smallest Difference                          | Medium    | ------------- |
 | `MEE`   | Move Element To End                          | Easy      | ------------- |
 | `MSSAE` | Maximum Subset Sum With No Adjacent Elements | Easy      | ------------- |
+| `NWMC`  | Number Of Ways To Make Change                | Medium    | ------------- |
+| `MNCC`  | Min Number Of Coins For Change               | Medium    | ------------- |
+| `LD`    | Levenshtein Distance                         | Medium    | ------------- |
+| `SCC`   | Single Cycle Check                           | Easy      | ------------- |
+| `KAD`   | Kadane's Algorithm                           | Easy      | ------------- |
+| `BFS`   | Breadth-first Search                         | Easy      | ------------- |
+| `RS`    | River Sizes                                  | Medium    | ------------- |
