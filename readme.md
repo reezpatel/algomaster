@@ -46,3 +46,14 @@ It contains (or will contain) some the most used algorithm in programming.
 | `KAD`   | Kadane's Algorithm                           | Easy      | ------------- |
 | `BFS`   | Breadth-first Search                         | Easy      | ------------- |
 | `RS`    | River Sizes                                  | Medium    | ------------- |
+| `YCA`   | Youngest Common Ancestor                     | Easy      | ------------- |
+| `MHC`   | Min Heap Construction                        | Medium    | ------------- |
+| `RNFE`  | Remove Kth Node From End                     | Easy      | ------------- |
+| `PER`   | Permutations                                 | Easy      | ------------- |
+| `MMSC`  | Min Max Stack Construction                   | Easy      | ------------- |
+| `PSET`  | Powerset                                     | Easy      | ------------- |
+| `BB`    | Balanced Brackets                            | Easy      | ------------- |
+| `SSM`   | Search In Sorted Matrix                      | Easy      | ------------- |
+| `LPS`   | Longest Palindromic Substring                | Medium    | ------------- |
+| `GA`    | Group Anagrams                               | Easy      | ------------- |
+| `STC`   | Suffix Trie Construction                     | Easy      | ------------- |
